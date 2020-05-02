@@ -1,2 +1,2 @@
 # SearchingAppDemo
-College Project
+College Demo Project
